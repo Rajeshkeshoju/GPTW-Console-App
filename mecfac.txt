@@ -1,0 +1,24 @@
+		    MECHANICAL ENGG. FACULTY
+---------------------------------------------------------------------
+Designation       Name             Appointment Year   Contact Number
+---------------------------------------------------------------------
+Senior Lecturer	   y.krishna		    1996	
+Senior Lecturer	   s.surender		    1999	
+Senior Lecturer	   M SRINIVASULU	    2015	
+Lecturer	   J VINAYKUMAR		    2012	
+Lecturer	   KT RAGHURAM		    2012		
+Lecturer	   DR.RAJENDER KARNEKANTI   2013	
+Lecturer	   kavitha banoth	    2013	
+Lecturer	   M VIJAY KUMAR	    2013	
+Lecturer	   nagehbabu vemula	    2013			
+Lecturer	   ravikanth neelam	    2013		
+Lecturer	   satish kandula	    2013		
+Lecturer	   K.T.RAGHURAM		    2015	
+Contract Lecturer  B.GANAPATHI		    2008	
+Contract Lecturer  ch. srikanth	 	    2008	
+Contract Lecturer  B KIRAN KUMAR	    2009	
+Contract Lecturer  B.SAMPATH		    2010		
+Contract Lecturer  M.KIRANKUMAR		    2011		
+Contract Lecturer  B.SRAVANTHI	 	    2012	
+Contract Lecturer  G SWAPNA		    2016
+----------------------------------------------------------------------

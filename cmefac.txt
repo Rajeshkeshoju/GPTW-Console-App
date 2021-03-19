@@ -1,0 +1,23 @@
+			COMPUTER ENGG. FACULTY
+		   ********************************
+-------------------------------------------------------------------------
+DESIGNATION		NAME	     APPOINTMENT YEAR	CONTACT NUMBER
+-------------------------------------------------------------------------
+HOD	             BURAM ABHINAV	  2014	
+Senior Lecturer	     K.VINOD KUMAR	  2001	
+Lecturer	     DASARI SAGAR	  2012	
+Lecturer	     T NAREH KUMAR	  2012	
+Lecturer	     D J SUJAY		  2013	
+Lecturer	     SILPA KASETTI	  2013	
+Contract Lecturer    SARITHA MUNUKUNTLA	  2010	
+Contract Lecturer    B PRAKASH		  2014	
+Contract Lecturer    B SWATHI		  2014	
+Contract Lecturer    B VIJAY KUMAR	  2014	
+Contract Lecturer    D DEVENDER		  2014	
+Contract Lecturer    P JYOTHI		  2014	
+Contract Lecturer    E SHARADA		  2015	
+Contract Lecturer    k venkatesh	  2015	
+Guest Lecturer	     A Prathibha	  2014	
+Guest Lecturer	     G KISHORE		  2014	
+Guest Lecturer	     M.SREEVALLIKA	  2014	
+------------------------------------------------------------------------

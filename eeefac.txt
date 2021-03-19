@@ -1,0 +1,20 @@
+		ELECTRICAL & ELECTRONICS ENGG. FACULTY
+	   ************************************************
+
+--------------------------------------------------------------------------
+Designation	      Name              Appointment Year   Contact Number
+--------------------------------------------------------------------------
+HOD		    P Sreedevi		  1995	
+Senior Lecturer	    V MADHUSUDHANA RAO	  1986	
+Senior Lecturer	    CH MADHUSUDHAN REDDY  1998	
+Lecturer	    K VIJAYA MOHAN	  1991	
+Lecturer	    CH YADAIAH		  2001	
+Lecturer	    G SUSHAMA		  2001	
+Lecturer	    K VEERA SWAMY	  2001	
+Lecturer	    J VINAY KUMAR	  2012	
+Contract Lecturer   B.GOPAL RAO		  2010	
+Contract Lecturer   B ROOPSINGH		  2011	
+Contract Lecturer   G JYOTHI		  2013	
+Contract Lecturer   N RAJESWARI		  2013	
+Guest Lecturer	    GAYATHRI		  2014
+--------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+				Civil Faculty
+----------------------------------------------------------------------------
+    DESIGNATION          NAME              APPOINTMENT YEAR    CONTACT NUMBER      
+-----------------------------------------------------------------------------			
+   HOD		      G. APPA RAO		 1982	        8702542548
+   Senior Lecturer    M. SAMPATH KUMAR	         1987	        8702447563
+   Senior Lecturer    P. GOURI SHANKAR		 1988	        8702570162
+   Senior Lecturer    P. VIDYA RANI		 1993	        8702562164
+   Lecturer	      S. VIJAYA KUMAR	         1988
+   Lecturer	      A. SUBHAS CHANDRA BOSE     1995
+   Lecturer	      B. RAMESH		         1995	
+   Lecturer	      G. NATARAJ SHEKHAR	 1995	        8702510949
+   Lecturer	      G. SRINIVAS		 1995	
+   Lecturer	      G. RAMULU	                 2012	
+   Lecturer	      E. CHENDU		         2013	
+   Contract Lecturer  L. RAGHOTHAM REDDY	 2014	
+   Contract Lecturer  V. ARCHANA		 2014	
+   Contract Lecturer  A. SUDHAKAR	         2015	
+   Contract Lecturer  B. SHOBHARANI	         2015	
+   Contract Lecturer  SEENAIAH REDDY             2015	
+   Guest Lecturer     M. RAJU	  		 2008	
+   Guest Lecturer     K. SAHITHI	 	 2015	
+   Guest Lecturer     SHIVA KUMAR J		 2016
+-----------------------------------------------------------------------------
