@@ -1,4 +1,4 @@
-# GPTW-Console-App
+# GPTW Console Application
 
 ## Screenshots
 ![Screenshot](Screenshots/gptw1.jpg) | ![Screenshot](Screenshots/gptw2.jpg)
